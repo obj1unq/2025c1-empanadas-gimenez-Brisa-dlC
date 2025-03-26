@@ -2,3 +2,7 @@
 object ejemplo {
 
 }
+
+object a{
+    
+}
